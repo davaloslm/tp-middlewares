@@ -1,1 +1,2 @@
-El usuario ingresó a la ruta:/admin?user=Timm
+El usuario ingresó a la ruta:/admin?user=Ada
+El usuario ingresó a la ruta:/
